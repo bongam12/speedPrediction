@@ -1,5 +1,5 @@
 ## Speed and Object Detection from Visual Feed (Video)
-Team: [Akash](gvsakashb@u.northwestern.edu), [Bonga](siyabongamatchaba2021@u.northwestern.edu) & [Kartik](kartik.kesavabhotla@u.northwestern.edu)
+Team: Akash (gvsakashb@u.northwestern.edu), Bonga (siyabongamatchaba2021@u.northwestern.edu) & Kartik (kartik.kesavabhotla@u.northwestern.edu)
 
 ### Intro
 
